@@ -55,6 +55,8 @@ After feature selection, the following features were retained and used for model
 
 • Year of Manufacture: Year the car was manufactured.
 
+• And many more.
+
 These features, after encoding, were essential in determining the car's selling price.
 
 ## Libraries and Tools Used
