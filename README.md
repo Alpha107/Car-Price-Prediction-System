@@ -10,7 +10,7 @@ The dataset used consists of various car specifications that influence the selli
 **Model Used:** Random Forest Regressor
 
 **Metrics Evaluated:**
-R² Score (Coefficient of Determination)
+R² Score, MAE, MSE, RMSE
 
 ## Dataset
 
