@@ -23,7 +23,23 @@ R² Score, MAE, MSE and RMSE
 ## Features Used for Model Building:
 After feature selection, the following features were retained and used for model training:
 
+• Car Model: Specific model of the car.
+
+• Car Brand: Brand of the car.
+
+• Year of Manufacture: Year the car was manufactured.
+
+• Mileage (Highway/City): Car mileage on highways or in the city.
+
+• Horsepower: Power of the car engine.
+
+• Number of Seats: Number of seats available in the car.
+
+• Transmission Type: Type of transmission system (Automatic/Manual).
+
 • ABS (Anti-lock Braking System): Indicates if the car has ABS.
+
+• Fuel Type: Type of fuel used by the car (e.g., Petrol, Diesel).
 
 • Central Locking: Availability of a central locking system.
 
@@ -37,23 +53,7 @@ After feature selection, the following features were retained and used for model
 
 • EBA (Electronic Brake Assist): Presence of electronic brake assist.
 
-• Fuel Type: Type of fuel used by the car (e.g., Petrol, Diesel).
-
-• Horsepower: Power of the car engine.
-
-• Mileage (Highway/City): Car mileage on highways or in the city.
-
 • Number of Doors: Total number of doors in the car.
-
-• Number of Seats: Number of seats available in the car.
-
-• Transmission Type: Type of transmission system (Automatic/Manual).
-
-• Car Brand: Brand of the car.
-
-• Car Model: Specific model of the car.
-
-• Year of Manufacture: Year the car was manufactured.
 
 • And many more.
 
