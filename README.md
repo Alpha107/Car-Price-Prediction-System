@@ -72,7 +72,7 @@ These features, after encoding, were essential in determining the car's selling 
 
 • Scikit-learn
 
-## How to Use
+## Steps Involved
 **Data Preprocessing:**
 
 • Load the dataset and explore the columns.
